@@ -6,7 +6,7 @@
     "route_inquiry"
   ],
   "contact": "x@agifuturefoundation.org",
-  "description": "Assembly and Sequencing Agent \u2014 Plans and monitors stepwise industrial or lab workflows",
+  "description": "Assembly and Sequencing Agent — Plans and monitors stepwise industrial or lab workflows",
   "machine_readable": [
     "/.well-known/api-catalog",
     "/.well-known/agent-skills/index.json",
@@ -27,7 +27,7 @@
     "earned_usd": 0,
     "health": "2/5",
     "jobs_completed": 0,
-    "offerings": "premium"
+    "offerings": "jobs: workflow_plan, workflow_monitor_report, sequencing_data_access; subscription: premium ($5/15 days)"
   },
   "token": {
     "address": "0xA799...f397",

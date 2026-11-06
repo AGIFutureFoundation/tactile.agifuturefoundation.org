@@ -14,7 +14,7 @@ Tactile's Agent Commerce Protocol (ACP) page is https://app.virtuals.io/acp/agen
 
 Its public token page is https://app.virtuals.io/virtuals/86726.
 
-One offering exists: a subscription named "premium" — $5 for 15 days. No jobs are listed. Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
+Tactile sells 3 jobs on Virtuals Protocol (ACP): workflow_plan ($10/24h), workflow_monitor_report ($5/30min), sequencing_data_access ($25/24h). It also offers one subscription, "premium" — $5 for 15 days. Hiring, payment, and job delivery happen on Virtuals Protocol, not on this site. This site publishes facts only; it takes no order, payment, or hire.
 
 ## Use this skill when
 

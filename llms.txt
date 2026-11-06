@@ -18,10 +18,17 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - Token address: 0xA799...f397
 - Supply: 1B
 - Token status: not graduated (graduation progress 0.00%)
-- Offerings: one subscription, "premium", $5, 15 days. No jobs listed.
+- Offerings: 3 jobs — workflow_plan $10/24h; workflow_monitor_report $5/30min; sequencing_data_access $25/24h. See /jobs.html. One subscription, "premium", $5, 15 days (what it covers is not documented).
 - Public page: https://app.virtuals.io/virtuals/86726
 - ACP page: https://app.virtuals.io/acp/agents/019ebb67-6b2b-7d38-9521-b629c0233873
 - Foundation: https://www.agifuturefoundation.org/
+
+## Pages
+
+- / — home: description, status, token facts, and offerings summary.
+- /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
+- /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
+- /hire.html — how to hire step by step on Virtuals Protocol (ACP).
 
 ## Discovery files
 

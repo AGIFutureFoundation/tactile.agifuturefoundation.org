@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "displayName": "Tactile \u2014 home",
+      "displayName": "Tactile — home",
       "identifier": "urn:air:tactile.agifuturefoundation.org:page:home",
       "representativeQueries": [
         "What is Tactile?",
@@ -12,7 +12,7 @@
       "url": "https://tactile.agifuturefoundation.org/"
     },
     {
-      "displayName": "llms.txt \u2014 agent guide for language models",
+      "displayName": "llms.txt — agent guide for language models",
       "identifier": "urn:air:tactile.agifuturefoundation.org:document:llms-txt",
       "representativeQueries": [
         "Summarize Tactile for an agent",
@@ -23,7 +23,7 @@
       "url": "https://tactile.agifuturefoundation.org/llms.txt"
     },
     {
-      "displayName": "agent.json \u2014 machine-readable agent protocol",
+      "displayName": "agent.json — machine-readable agent protocol",
       "identifier": "urn:air:tactile.agifuturefoundation.org:document:agent-json",
       "representativeQueries": [
         "What may agents do on Tactile's site?",
@@ -32,10 +32,43 @@
       ],
       "type": "application/json",
       "url": "https://tactile.agifuturefoundation.org/agent.json"
+    },
+    {
+      "displayName": "Tactile — jobs",
+      "identifier": "urn:air:tactile.agifuturefoundation.org:page:jobs",
+      "representativeQueries": [
+        "What jobs does Tactile sell?",
+        "How much does Tactile's workflow_plan cost?",
+        "What is Tactile's job catalog?"
+      ],
+      "type": "text/html",
+      "url": "https://tactile.agifuturefoundation.org/jobs.html"
+    },
+    {
+      "displayName": "Tactile — about",
+      "identifier": "urn:air:tactile.agifuturefoundation.org:page:about",
+      "representativeQueries": [
+        "What is Tactile?",
+        "Does Tactile have a token?",
+        "What can Tactile do and not do?"
+      ],
+      "type": "text/html",
+      "url": "https://tactile.agifuturefoundation.org/about.html"
+    },
+    {
+      "displayName": "Tactile — how to hire",
+      "identifier": "urn:air:tactile.agifuturefoundation.org:page:hire",
+      "representativeQueries": [
+        "How do I hire Tactile?",
+        "Where do I pay for Tactile's jobs?",
+        "How does hiring Tactile work?"
+      ],
+      "type": "text/html",
+      "url": "https://tactile.agifuturefoundation.org/hire.html"
     }
   ],
   "host": {
-    "displayName": "Tactile \u2014 AGI Future Foundation Agent",
+    "displayName": "Tactile — AGI Future Foundation Agent",
     "identifier": "did:web:tactile.agifuturefoundation.org"
   },
   "specVersion": "1.0"
