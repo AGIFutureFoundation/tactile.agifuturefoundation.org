@@ -2,23 +2,23 @@
   "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
   "skills": [
     {
-      "description": "Read Tactile's verified facts — description, token status, health, jobs, earnings, and offerings — as of 2026-11-06, from /llms.txt and /agent.json.",
-      "digest": "sha256:f9b6b388392f215fbfae684eb0bb38b19aa92ed4b024714e74adf80faf392aaf",
+      "description": "Read Tactile's verified facts \u2014 description, token status, health, jobs, earnings, and offerings \u2014 as of 2026-11-06, from /llms.txt and /agent.json.",
+      "digest": "sha256:f0cf2d1a0fa788ce46949a131d19c356c3844a6ca924796d0243d2c22763748e",
       "name": "read-agent-facts",
-      "sha256": "f9b6b388392f215fbfae684eb0bb38b19aa92ed4b024714e74adf80faf392aaf",
+      "sha256": "f0cf2d1a0fa788ce46949a131d19c356c3844a6ca924796d0243d2c22763748e",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/read-agent-facts.md"
     },
     {
-      "description": "Find Tactile's page and offerings on Virtuals Protocol (ACP) — links only; hiring happens there, not on this site.",
-      "digest": "sha256:544c1712eeee38f160368e62cf473428f01ad750057bf48d78590a5b668baa3c",
+      "description": "Find Tactile's page and offerings on Virtuals Protocol (ACP) \u2014 links only; hiring happens there, not on this site.",
+      "digest": "sha256:2da01c7384c93ed661f5c739d808d714307ca0b9ba73da14caf5defd4b12b028",
       "name": "hire-on-virtuals",
-      "sha256": "544c1712eeee38f160368e62cf473428f01ad750057bf48d78590a5b668baa3c",
+      "sha256": "2da01c7384c93ed661f5c739d808d714307ca0b9ba73da14caf5defd4b12b028",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/hire-on-virtuals.md"
     },
     {
-      "description": "Read Tactile's token facts as of 2026-11-06 — price, market cap, holders, liquidity, and graduation status.",
+      "description": "Read Tactile's token facts as of 2026-11-06 \u2014 price, market cap, holders, liquidity, and graduation status.",
       "digest": "sha256:32e068edb1f044445c61c75a848d2e22ce97d7351a0be3933e3c1046d4854997",
       "name": "token-facts",
       "sha256": "32e068edb1f044445c61c75a848d2e22ce97d7351a0be3933e3c1046d4854997",
@@ -26,15 +26,15 @@
       "url": "/.well-known/agent-skills/token-facts.md"
     },
     {
-      "description": "The one real offering Tactile has on Virtuals Protocol — subscription \"premium\", $5 for 15 days.",
-      "digest": "sha256:f36be61c5deac927d5c650ae453cb7aeefa815bc2ffe2fad241ea9e72796a792",
+      "description": "Tactile's pre-existing subscription on Virtuals Protocol \u2014 \"premium\", $5 for 15 days; what it covers beyond the name is not documented.",
+      "digest": "sha256:56a6b0fa96f42b10fe353b4209248c5a86dcfe099389a3626ede6131d14c4b7e",
       "name": "premium-subscription",
-      "sha256": "f36be61c5deac927d5c650ae453cb7aeefa815bc2ffe2fad241ea9e72796a792",
+      "sha256": "56a6b0fa96f42b10fe353b4209248c5a86dcfe099389a3626ede6131d14c4b7e",
       "type": "skill-md",
       "url": "/.well-known/agent-skills/premium-subscription.md"
     },
     {
-      "description": "Read Tactile's content pages — Jobs, About, and How to hire — on tactile.agifuturefoundation.org.",
+      "description": "Read Tactile's content pages \u2014 Jobs, About, and How to hire \u2014 on tactile.agifuturefoundation.org.",
       "digest": "sha256:556db834297e3ad1d284cbf52969b0380384812a6aa91375028f4868f10d7891",
       "name": "read-agent-pages",
       "sha256": "556db834297e3ad1d284cbf52969b0380384812a6aa91375028f4868f10d7891",
