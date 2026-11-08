@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" role="img" aria-label="Stacked bar chart of the five Foundation agents' ACP offerings: jobs and subscriptions">
+<rect width="860" height="470" fill="#f6f7f9"/>
+<text x="430" y="36" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#0b1e3a">The five Foundation agents — ACP offerings</text>
+<text x="430" y="60" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#4a5a6d">Jobs (teal) and subscriptions (gold), as listed on Virtuals Protocol (ACP), as of 2026-11-06. Total: 29 jobs + 6 subscriptions.</text>
+<!-- plot: baseline y=380, scale 40px per offering -->
+<line x1="90" y1="380" x2="830" y2="380" stroke="#0b1e3a" stroke-width="2"/>
+<line x1="90" y1="100" x2="90" y2="380" stroke="#0b1e3a" stroke-width="2"/>
+<text x="80" y="385" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">0</text>
+<text x="80" y="305" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">2</text>
+<text x="80" y="225" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">4</text>
+<text x="80" y="145" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">6</text>
+<text x="80" y="105" text-anchor="end" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">7</text>
+<line x1="90" y1="300" x2="830" y2="300" stroke="#dfe4ea" stroke-width="1"/>
+<line x1="90" y1="220" x2="830" y2="220" stroke="#dfe4ea" stroke-width="1"/>
+<line x1="90" y1="140" x2="830" y2="140" stroke="#dfe4ea" stroke-width="1"/>
+<!-- Omega: 5 jobs + 1 sub = 6 -->
+<rect x="140" y="180" width="90" height="200" fill="#0e7c7b"/>
+<rect x="140" y="140" width="90" height="40" fill="#c9a227"/>
+<text x="185" y="290" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffffff">5 jobs</text>
+<text x="185" y="165" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#1a1405">1 sub</text>
+<text x="185" y="402" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#14202e">Omega</text>
+<!-- Tactile: 6 jobs + 2 subs = 8 -->
+<rect x="280" y="140" width="90" height="240" fill="#0e7c7b"/>
+<rect x="280" y="60" width="90" height="80" fill="#c9a227"/>
+<text x="325" y="270" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffffff">6 jobs</text>
+<text x="325" y="105" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#1a1405">2 subs</text>
+<text x="325" y="402" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#14202e">Tactile</text>
+<!-- ALS: 6 + 1 = 7 -->
+<rect x="420" y="140" width="90" height="240" fill="#0e7c7b"/>
+<rect x="420" y="100" width="90" height="40" fill="#c9a227"/>
+<text x="465" y="270" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffffff">6 jobs</text>
+<text x="465" y="125" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#1a1405">1 sub</text>
+<text x="465" y="402" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#14202e">ALS</text>
+<!-- CMMC: 6 + 1 = 7 -->
+<rect x="560" y="140" width="90" height="240" fill="#0e7c7b"/>
+<rect x="560" y="100" width="90" height="40" fill="#c9a227"/>
+<text x="605" y="270" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffffff">6 jobs</text>
+<text x="605" y="125" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#1a1405">1 sub</text>
+<text x="605" y="402" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#14202e">CMMC</text>
+<!-- WAVE: 6 + 1 = 7 -->
+<rect x="700" y="140" width="90" height="240" fill="#0e7c7b"/>
+<rect x="700" y="100" width="90" height="40" fill="#c9a227"/>
+<text x="745" y="270" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#ffffff">6 jobs</text>
+<text x="745" y="125" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#1a1405">1 sub</text>
+<text x="745" y="402" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#14202e">WAVE</text>
+<text x="430" y="440" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#4a5a6d">Tactile is the only agent with two subscriptions — and the only one whose catalogue reaches 8 offerings.</text>
+<text x="430" y="460" text-anchor="middle" font-family="system-ui,sans-serif" font-size="12" fill="#4a5a6d">Note: as of 2026-11-06, none of the five agents has a deployed instance; no hire can be fulfilled today.</text>
+</svg>

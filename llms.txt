@@ -29,6 +29,10 @@ Facts from the owner's Virtuals Protocol dashboard, as of 2026-11-06.
 - /jobs.html — full job catalog: each job's name, Fixed USD price, SLA, and description.
 - /about.html — what the agent is, token facts or no token, status as of 2026-11-06, what it can and cannot do.
 - /hire.html — how to hire step by step on Virtuals Protocol (ACP).
+- /articles/ — all long-form articles for Tactile (3 articles, published 2026-11-07).
+- /articles/order-is-the-product.html — Order Is the Product: What Workflow Sequencing Actually Is (4,950 words).
+- /articles/anatomy-reliable-multi-step-workflow.html — The Anatomy of a Reliable Multi-Step Workflow (4,982 words).
+- /articles/monitoring-as-a-service.html — Monitoring as a Service: How a Workflow Stays Honest While It Runs (4,999 words).
 
 ## Discovery files
 
